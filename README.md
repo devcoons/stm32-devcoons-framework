@@ -13,7 +13,7 @@ Below you will find all the available modules you can attach to the framework an
     - [stm32-lib-iqueue](https://github.com/devcoons/stm32-lib-iqueue) : Optimized library of a generic queue.
     - [stm32-lib-iso14229](https://github.com/devcoons/iso14229): Implementation of ISO14229 in C.
     - [stm32-lib-iso15765](https://github.com/devcoons/iso15765-canbus) : Implementation of ISO15765-2 in C.
-    - [stm32-lib-jmp](https://github.com/devcoons/stm32-lib-jmp) : To support 2 or more firmware binaries be executed by the same microcontroller.
+    - [stm32-lib-jmp](https://github.com/devcoons/stm32-lib-jmp) : Used by the/a bootloader firmware to jump to the application firmware.
     - [stm32-lib-chronos](https://github.com/devcoons/stm32-lib-chronos) : Time management functions
     - [stm32-lib-swcp](https://github.com/devcoons/stm32-lib-swcp) : To save or retrieve values to/from an EEPROM.
     - [stm32-lib-unixtime](https://github.com/devcoons/stm32-lib-unixtime) : To convert a date to/from unix timestamp.

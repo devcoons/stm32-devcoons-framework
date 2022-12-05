@@ -9,7 +9,7 @@ Below you will find all the available modules you can attach to the framework an
     - [stm32-lib-crypto](https://github.com/devcoons/stm32-lib-crypto) : STM32 optimized Cryptographic Library.
     - [stm32-lib-efbn](https://github.com/devcoons/stm32-lib-efbn) : Execute function by Id. Easy way to call a function through an ID associated to it .
     - [stm32-lib-ifm](https://github.com/devcoons/stm32-lib-ifm): STM32 optimized library for the Internal Flash Memory Structured Data Storage.
-    - [stm32-lib-intercom](https://github.com/devcoons/stm32-lib-intercom) : To place in a unique structure the data to be shared between microcontrollers.
+    - [stm32-lib-intercom](https://github.com/devcoons/stm32-lib-intercom) : Structured way to share data between two microcontrollers.
     - [stm32-lib-iqueue](https://github.com/devcoons/stm32-lib-iqueue) : Optimized library of a generic queue.
     - [stm32-lib-iso14229](https://github.com/devcoons/iso14229): Implementation of ISO14229 in C.
     - [stm32-lib-iso15765](https://github.com/devcoons/iso15765-canbus) : Implementation of ISO15765-2 in C.

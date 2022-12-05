@@ -1,5 +1,9 @@
 # STM32 Devcoons Framework
 
+This repository is dedicated to a development framework for STM32 microcontrollers. For more information about this framework (how to use, etc) please visit: https://www.devcoons.com/stm32-devcoons-framework-1-how-to-use/. 
+
+Below you will find all the available modules you can attach to the framework and speed-up your development process.
+
 - Libraries:
     - [stm32-definitions](https://github.com/devcoons/stm32-definitions) : STM32 Basic Definitions and Framework Library.
     - [stm32-lib-crypto](https://github.com/devcoons/stm32-lib-crypto) : STM32 optimized Cryptographic Library.
